@@ -1,0 +1,386 @@
+[
+  {
+    "id": "24e69a62-56c7-44f5-a402-c188ab501b98",
+    "symbol": "अ",
+    "pronunciation": "a",
+    "cosmologicalInfo": "**अ** represents a fundamental vibration in the cosmic order.",
+    "energy": "cit",
+    "meaning": "energy of Consciousness",
+    "notes": "inseperable from ananda shakti",
+    "historicalInfo": "The character **अ** has roots in Vedic traditions and early inscriptions.",
+    
+  },
+  {
+    "id": "9b37ac0c-74dc-4827-9c7c-b70c715cc57a",
+    "symbol": "आ",
+    "pronunciation": "ā",
+    "cosmologicalInfo": "**आ** represents a fundamental vibration in the cosmic order.",
+    "energy": "andanda",
+    "meaning": "energy of Bliss",
+    "notes": "inseperable from cit shakti",
+    "historicalInfo": "The character **आ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "eb1e509f-3b8b-472f-abd6-92456a3d010b",
+    "symbol": "इ",
+    "pronunciation": "i",
+    "cosmologicalInfo": "**इ** represents a fundamental vibration in the cosmic order.",
+    "energy": "iccha",
+    "meaning": "energy of Will (unagitated)",
+    "notes": "",
+    "historicalInfo": "The character **इ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "d12bd822-c563-4073-9d3f-95ba7ab40dba",
+    "symbol": "ई",
+    "pronunciation": "ī",
+    "cosmologicalInfo": "**ई** represents a fundamental vibration in the cosmic order.",
+    "energy": "iccha",
+    "meaning": "energy of Will (agitated)",
+    "notes": "",
+    "historicalInfo": "The character **ई** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "56868213-ea21-4d3b-8fd9-1f356059c103",
+    "symbol": "उ",
+    "pronunciation": "u",
+    "cosmologicalInfo": "**उ** represents a fundamental vibration in the cosmic order.",
+    "energy": "jnana",
+    "meaning": "About to begin",
+    "notes": "Existence is about to begin, not yet created",
+    "historicalInfo": "The character **उ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "4161f150-ac17-4a74-b1c4-b8aef88aa8d9",
+    "symbol": "ऊ",
+    "pronunciation": "ū",
+    "cosmologicalInfo": "**ऊ** represents a fundamental vibration in the cosmic order.",
+    "energy": "jnana",
+    "meaning": "Lessening",
+    "notes": "Apprehension about possible loss",
+    "historicalInfo": "The character **ऊ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "211dabbe-51ca-46d8-9858-135a650d2bc8",
+    "symbol": "ऋ",
+    "pronunciation": "ṛ",
+    "cosmologicalInfo": "**ऋ** represents a fundamental vibration in the cosmic order.",
+    "energy": "amrita bija",
+    "meaning": "Residing in his own bliss",
+    "historicalInfo": "The character **ऋ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "240c17ec-9f46-4080-88a3-5ac218c6b23f",
+    "symbol": "ॠ",
+    "pronunciation": "ṝ",
+    "cosmologicalInfo": "**ॠ** represents a fundamental vibration in the cosmic order.",
+    "energy": "amrita bija",
+    "meaning": "Residing in his own bliss",
+    "historicalInfo": "The character **ॠ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "081729ae-7f8e-498e-b450-f8f66ab00c4c",
+    "symbol": "ऌ",
+    "pronunciation": "ḷ",
+    "cosmologicalInfo": "**ऌ** represents a fundamental vibration in the cosmic order.",
+    "energy": "amrita bija",
+    "meaning": "Residing in his own bliss",
+    "historicalInfo": "The character **ऌ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "6c98365c-6f66-4dba-aed7-a752a3e9f5aa",
+    "symbol": "ॡ",
+    "pronunciation": "ḹ",
+    "cosmologicalInfo": "**ॡ** represents a fundamental vibration in the cosmic order.",
+    "energy": "amrita bija",
+    "meaning": "Residing in his own bliss",
+    "historicalInfo": "The character **ॡ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "a8c51b95-9a70-42b6-96a9-e6cbb2f69b36",
+    "symbol": "ए",
+    "pronunciation": "e",
+    "cosmologicalInfo": "**ए** represents a fundamental vibration in the cosmic order.",
+    "energy": "asphuta kriya shakti",
+    "meaning": "not vivid energy of action",
+    "historicalInfo": "The character **ए** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "c663a270-328c-4559-b42d-bd0d51a55d0b",
+    "symbol": "ऐ",
+    "pronunciation": "ai",
+    "cosmologicalInfo": "**ऐ** represents a fundamental vibration in the cosmic order.",
+    "energy": "sphuta kriya shakti",
+    "meaning": "vivid energy of action",
+    "historicalInfo": "The character **ऐ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "7c7a46ee-1cd8-4742-90f3-907acac896fa",
+    "symbol": "ओ",
+    "pronunciation": "o",
+    "cosmologicalInfo": "**ओ** represents a fundamental vibration in the cosmic order.",
+    "energy": "sphutatara kriya shakti",
+    "meaning": "more vivid energy of action",
+    "historicalInfo": "The character **ओ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "ab943616-ebb6-437a-ae5f-a738aba9e2c2",
+    "symbol": "औ",
+    "pronunciation": "au",
+    "cosmologicalInfo": "**औ** represents a fundamental vibration in the cosmic order.",
+    "energy": "sphutatama kriya shakti",
+    "meaning": "most vivid energy of action",
+    "historicalInfo": "The character **औ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "62648b99-e906-4018-8863-530f0636db32",
+    "symbol": "अं",
+    "pronunciation": "aṃ",
+    "cosmologicalInfo": "**अं** represents a fundamental vibration in the cosmic order.",
+    "energy": "anusvara",
+    "meaning": "all (unreflected)",
+    "notes": "Shiva's existence in its own point",
+    "historicalInfo": "The character **अं** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "d708e711-8422-4015-b320-faec2fccc22e",
+    "symbol": "अः",
+    "pronunciation": "aḥ",
+    "cosmologicalInfo": "**अः** represents a fundamental vibration in the cosmic order.",
+    "energy": "visarga",
+    "meaning": "all (reflected)",
+    "notes": "Shiva bindu/Shakti bindu",
+    "historicalInfo": "The character **अः** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "7ac1e494-6ecd-4e2a-8b15-f7b58f0c5c74",
+    "symbol": "क",
+    "pronunciation": "ka",
+    "cosmologicalInfo": "**क** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **क** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "0ba6e68d-7ecc-4686-aefb-c6c198ca2534",
+    "symbol": "ख",
+    "pronunciation": "kha",
+    "cosmologicalInfo": "**ख** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ख** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "beab1a2e-da54-4e72-8959-4be28759479e",
+    "symbol": "ग",
+    "pronunciation": "ga",
+    "cosmologicalInfo": "**ग** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ग** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "105191ff-a163-425e-ba34-1dc8d4f87e41",
+    "symbol": "घ",
+    "pronunciation": "gha",
+    "cosmologicalInfo": "**घ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **घ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "33450efb-d146-4e90-90ce-f45778893adc",
+    "symbol": "ङ",
+    "pronunciation": "ṅa",
+    "cosmologicalInfo": "**ङ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ङ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "ab119953-4228-460f-84e9-6c8e803c2350",
+    "symbol": "च",
+    "pronunciation": "ca",
+    "cosmologicalInfo": "**च** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **च** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "86b1cdc3-c33e-4f55-8985-dd8db7e72e8d",
+    "symbol": "छ",
+    "pronunciation": "cha",
+    "cosmologicalInfo": "**छ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **छ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "81fccc54-b77a-4700-8cb9-891288839b3a",
+    "symbol": "ज",
+    "pronunciation": "ja",
+    "cosmologicalInfo": "**ज** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ज** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "fcf4de40-00ec-4ad8-ad50-32f47bf88141",
+    "symbol": "झ",
+    "pronunciation": "jha",
+    "cosmologicalInfo": "**झ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **झ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "933cce3d-f7e2-4997-ba76-70cd89668418",
+    "symbol": "ञ",
+    "pronunciation": "ña",
+    "cosmologicalInfo": "**ञ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ञ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "c9ad64b8-0455-4194-97f9-e8c60a0aee63",
+    "symbol": "ट",
+    "pronunciation": "ṭa",
+    "cosmologicalInfo": "**ट** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ट** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "f11fed96-0dda-49cc-9698-cc62df05667d",
+    "symbol": "ठ",
+    "pronunciation": "ṭha",
+    "cosmologicalInfo": "**ठ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ठ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "43af60bf-39ed-4962-8b78-c522d65aea85",
+    "symbol": "ड",
+    "pronunciation": "ḍa",
+    "cosmologicalInfo": "**ड** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ड** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "5a371c7a-b031-43ae-b521-6cfcbe89c552",
+    "symbol": "ढ",
+    "pronunciation": "ḍha",
+    "cosmologicalInfo": "**ढ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ढ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "f4d0cb72-13ae-4f1a-a85d-31c6efcda459",
+    "symbol": "ण",
+    "pronunciation": "ṇa",
+    "cosmologicalInfo": "**ण** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ण** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "c7bf1937-1f65-446d-b1b8-2479044bf6c6",
+    "symbol": "त",
+    "pronunciation": "ta",
+    "cosmologicalInfo": "**त** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **त** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "99a31bb4-2e89-4bc3-aba7-9d000557c168",
+    "symbol": "थ",
+    "pronunciation": "tha",
+    "cosmologicalInfo": "**थ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **थ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "61c0f0f4-86f1-4f50-b28d-93b9d05aebe2",
+    "symbol": "द",
+    "pronunciation": "da",
+    "cosmologicalInfo": "**द** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **द** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "e44d5ab8-a823-4f39-a36a-c3d082aa7024",
+    "symbol": "ध",
+    "pronunciation": "dha",
+    "cosmologicalInfo": "**ध** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ध** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "39872b08-4f1e-40d3-baf8-3bb3d3540b72",
+    "symbol": "न",
+    "pronunciation": "na",
+    "cosmologicalInfo": "**न** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **न** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "405bd0e3-0f1b-46ff-9e04-42cb160c9572",
+    "symbol": "प",
+    "pronunciation": "pa",
+    "cosmologicalInfo": "**प** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **प** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "d9b14685-7d34-449a-ae97-789a7b80ec95",
+    "symbol": "फ",
+    "pronunciation": "pha",
+    "cosmologicalInfo": "**फ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **फ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "04eba15f-02c8-4236-8715-b5e61af015e0",
+    "symbol": "ब",
+    "pronunciation": "ba",
+    "cosmologicalInfo": "**ब** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ब** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "97d5fc5d-e813-4771-b6a2-501d94642b69",
+    "symbol": "भ",
+    "pronunciation": "bha",
+    "cosmologicalInfo": "**भ** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **भ** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "61cd3cdc-d0be-48ec-93fb-af5a2e4f34c3",
+    "symbol": "म",
+    "pronunciation": "ma",
+    "cosmologicalInfo": "**म** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **म** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "c158db03-f855-48ff-9d52-55a8f947ffe0",
+    "symbol": "य",
+    "pronunciation": "ya",
+    "cosmologicalInfo": "**य** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **य** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "21fcbbdc-a6ef-4a1c-a677-4762cc8f3635",
+    "symbol": "र",
+    "pronunciation": "ra",
+    "cosmologicalInfo": "**र** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **र** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "66b72df1-625f-42f8-9066-3ac09dec023c",
+    "symbol": "ल",
+    "pronunciation": "la",
+    "cosmologicalInfo": "**ल** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ल** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "73013a36-b4fa-4433-9bee-fbe2bb59354a",
+    "symbol": "व",
+    "pronunciation": "va",
+    "cosmologicalInfo": "**व** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **व** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "9a1016e1-854b-4bc2-b464-beceb7656af1",
+    "symbol": "श",
+    "pronunciation": "śa",
+    "cosmologicalInfo": "**श** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **श** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "b09610ab-23cb-4afe-b19f-6f01b40b2c3b",
+    "symbol": "ष",
+    "pronunciation": "ṣa",
+    "cosmologicalInfo": "**ष** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ष** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "c2a36c39-ad50-4ba1-892e-47f8ba1e380e",
+    "symbol": "स",
+    "pronunciation": "sa",
+    "cosmologicalInfo": "**स** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **स** has roots in Vedic traditions and early inscriptions."
+  },
+  {
+    "id": "17b1b023-87e1-4884-86e2-f0c2b0aeadba",
+    "symbol": "ह",
+    "pronunciation": "ha",
+    "cosmologicalInfo": "**ह** represents a fundamental vibration in the cosmic order.",
+    "historicalInfo": "The character **ह** has roots in Vedic traditions and early inscriptions."
+  }
+]

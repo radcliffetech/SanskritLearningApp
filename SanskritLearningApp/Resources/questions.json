@@ -1,0 +1,632 @@
+[
+  {
+    "id": "basic-question-1",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'sun'?",
+    "possibleAnswers": ["चन्द्रः", "सूर्यः", "नदी", "गगनम्"],
+    "answer": "सूर्यः"
+  },
+  {
+    "id": "basic-question-2",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'जलम्'?",
+    "possibleAnswers": ["fire", "earth", "sky", "water"],
+    "answer": "water"
+  },
+  {
+    "id": "basic-question-3",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'पुस्तकम्'?",
+    "possibleAnswers": ["book", "pen", "school", "chair"],
+    "answer": "book"
+  },
+  {
+    "id": "basic-question-4",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'river'?",
+    "possibleAnswers": ["वनम्", "गगनम्", "नदी", "जलम्"],
+    "answer": "नदी"
+  },
+  {
+    "id": "basic-question-5",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'गजः'?",
+    "possibleAnswers": ["tiger", "elephant", "horse", "deer"],
+    "answer": "elephant"
+  },
+  {
+    "id": "basic-question-6",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'फलम्'?",
+    "possibleAnswers": ["fruit", "flower", "leaf", "root"],
+    "answer": "fruit"
+  },
+  {
+    "id": "basic-question-7",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'tree'?",
+    "possibleAnswers": ["पुष्पः", "वृक्षः", "पत्रम्", "फलम्"],
+    "answer": "वृक्षः"
+  },
+  {
+    "id": "basic-question-8",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'नयनम्'?",
+    "possibleAnswers": ["ear", "eye", "nose", "tongue"],
+    "answer": "eye"
+  },
+  {
+    "id": "basic-question-9",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'sky'?",
+    "possibleAnswers": ["गगनम्", "पृथिवी", "जलम्", "वृक्षः"],
+    "answer": "गगनम्"
+  },
+  {
+    "id": "basic-question-10",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'शब्दः'?",
+    "possibleAnswers": ["sound", "sight", "smell", "touch"],
+    "answer": "sound"
+  },
+  {
+    "id": "basic-question-11",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'flower'?",
+    "possibleAnswers": ["गजः", "पुष्पः", "फलम्", "वृक्षः"],
+    "answer": "पुष्पः"
+  },
+  {
+    "id": "basic-question-12",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'पथः'?",
+    "possibleAnswers": ["road", "field", "forest", "hill"],
+    "answer": "road"
+  },
+  {
+    "id": "basic-question-13",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'mountain'?",
+    "possibleAnswers": ["पर्वतः", "सागरः", "गगनम्", "वनम्"],
+    "answer": "पर्वतः"
+  },
+  {
+    "id": "basic-question-14",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'माता'?",
+    "possibleAnswers": ["father", "mother", "sister", "brother"],
+    "answer": "mother"
+  },
+  {
+    "id": "basic-question-15",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'king'?",
+    "possibleAnswers": ["राजा", "सेवकः", "गुरुः", "शिष्यः"],
+    "answer": "राजा"
+  },
+  {
+    "id": "basic-question-16",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'विद्या'?",
+    "possibleAnswers": ["book", "wisdom", "education", "light"],
+    "answer": "education"
+  },
+  {
+    "id": "basic-question-17",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'ocean'?",
+    "possibleAnswers": ["सागरः", "नदी", "पर्वतः", "वृक्षः"],
+    "answer": "सागरः"
+  },
+  {
+    "id": "basic-question-18",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'अग्निः'?",
+    "possibleAnswers": ["water", "wind", "fire", "earth"],
+    "answer": "fire"
+  },
+  {
+    "id": "basic-question-19",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'earth'?",
+    "possibleAnswers": ["पृथिवी", "जलम्", "वायु", "गगनम्"],
+    "answer": "पृथिवी"
+  },
+  {
+    "id": "basic-question-20",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'शिक्षकः'?",
+    "possibleAnswers": ["student", "teacher", "parent", "child"],
+    "answer": "teacher"
+  },
+  {
+    "id": "basic-question-21",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'friend'?",
+    "possibleAnswers": ["मित्रम्", "दुर्हितः", "राजा", "शत्रुः"],
+    "answer": "मित्रम्"
+  },
+  {
+    "id": "basic-question-22",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'शत्रुः'?",
+    "possibleAnswers": ["friend", "enemy", "guest", "student"],
+    "answer": "enemy"
+  },
+  {
+    "id": "basic-question-23",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'book'?",
+    "possibleAnswers": ["पुस्तकम्", "पत्रम्", "लेखनम्", "विद्या"],
+    "answer": "पुस्तकम्"
+  },
+  {
+    "id": "basic-question-24",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'वायु'?",
+    "possibleAnswers": ["earth", "air", "fire", "water"],
+    "answer": "air"
+  },
+  {
+    "id": "basic-question-25",
+    "keywords": ["basic"],
+    "prompt": "What is the Sanskrit word for 'forest'?",
+    "possibleAnswers": ["वनम्", "वृक्षः", "गिरिः", "ग्रामः"],
+    "answer": "वनम्"
+  },
+  {
+    "id": "advanced-question-1",
+    "keywords": ["advanced"],
+    "prompt": "What is the instrumental singular form of 'गजः'?",
+    "possibleAnswers": ["गजेन", "गजः", "गजम्", "गजस्य"],
+    "answer": "गजेन"
+  },
+  {
+    "id": "advanced-question-2",
+    "keywords": ["advanced"],
+    "prompt": "What is the genitive plural form of 'कितवः'?",
+    "possibleAnswers": ["कितवाणाम्", "कितवः", "कितवाः", "कितवस्य"],
+    "answer": "कितवाणाम्"
+  },
+  {
+    "id": "advanced-question-3",
+    "keywords": ["advanced"],
+    "prompt": "What is the future tense of 'पठ'?",
+    "possibleAnswers": ["पठिष्यति", "पठति", "पठामि", "पठसि"],
+    "answer": "पठिष्यति"
+  },
+  {
+    "id": "advanced-question-4",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'उपदेशः'?",
+    "possibleAnswers": ["instruction", "knowledge", "wisdom", "teaching"],
+    "answer": "instruction"
+  },
+  {
+    "id": "advanced-question-5",
+    "keywords": ["advanced"],
+    "prompt": "What is the passive voice form of 'कृ'?",
+    "possibleAnswers": ["कृतम्", "कृत्यते", "कृतवान्", "कृतस्य"],
+    "answer": "कृतम्"
+  },
+  {
+    "id": "advanced-question-6",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'संस्कृतम्'?",
+    "possibleAnswers": ["refined", "language", "ancient", "sacred"],
+    "answer": "refined"
+  },
+  {
+    "id": "advanced-question-7",
+    "keywords": ["advanced"],
+    "prompt": "What is the nominative plural form of 'नरः'?",
+    "possibleAnswers": ["नराः", "नरः", "नरम्", "नरस्य"],
+    "answer": "नराः"
+  },
+  {
+    "id": "advanced-question-8",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'सिद्धिः'?",
+    "possibleAnswers": ["achievement", "failure", "success", "goal"],
+    "answer": "achievement"
+  },
+  {
+    "id": "advanced-question-9",
+    "keywords": ["advanced"],
+    "prompt": "What is the accusative singular form of 'पुस्तकम्'?",
+    "possibleAnswers": ["पुस्तकम्", "पुस्तकस्य", "पुस्तकः", "पुस्तकानि"],
+    "answer": "पुस्तकम्"
+  },
+  {
+    "id": "advanced-question-10",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'अनुशासनम्'?",
+    "possibleAnswers": ["discipline", "freedom", "knowledge", "teaching"],
+    "answer": "discipline"
+  },
+  {
+    "id": "advanced-question-11",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'वृत्तिः'?",
+    "possibleAnswers": ["occupation", "wealth", "status", "knowledge"],
+    "answer": "occupation"
+  },
+  {
+    "id": "advanced-question-12",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'प्रज्ञा'?",
+    "possibleAnswers": ["wisdom", "knowledge", "ignorance", "intellect"],
+    "answer": "wisdom"
+  },
+  {
+    "id": "advanced-question-13",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'प्रतिभा'?",
+    "possibleAnswers": ["talent", "skill", "knowledge", "wisdom"],
+    "answer": "talent"
+  },
+  {
+    "id": "advanced-question-14",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'संपत्ति'?",
+    "possibleAnswers": ["wealth", "poverty", "knowledge", "status"],
+    "answer": "wealth"
+  },
+  {
+    "id": "advanced-question-15",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'संविधानम्'?",
+    "possibleAnswers": ["constitution", "law", "order", "system"],
+    "answer": "constitution"
+  },
+  {
+    "id": "advanced-question-16",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'अभ्यासः'?",
+    "possibleAnswers": ["practice", "theory", "knowledge", "skill"],
+    "answer": "practice"
+  },
+  {
+    "id": "advanced-question-17",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'संपूर्णता'?",
+    "possibleAnswers": ["completeness", "perfection", "wholeness", "unity"],
+    "answer": "completeness"
+  },
+  {
+    "id": "advanced-question-18",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'अधिकरणम्'?",
+    "possibleAnswers": ["location", "place", "context", "setting"],
+    "answer": "location"
+  },
+  {
+    "id": "advanced-question-19",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'प्रतिविम्बम्'?",
+    "possibleAnswers": ["reflection", "image", "shadow", "light"],
+    "answer": "reflection"
+  },
+  {
+    "id": "advanced-question-20",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'संपर्कः'?",
+    "possibleAnswers": ["contact", "connection", "relationship", "interaction"],
+    "answer": "contact"
+  },
+  {
+    "id": "advanced-question-21",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'विज्ञानम्'?",
+    "possibleAnswers": ["science", "knowledge", "theory", "study"],
+    "answer": "science"
+  },
+  {
+    "id": "advanced-question-22",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'न्यायः'?",
+    "possibleAnswers": ["justice", "law", "order", "equity"],
+    "answer": "justice"
+  },
+  {
+    "id": "advanced-question-23",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'सिद्धान्तः'?",
+    "possibleAnswers": ["principle", "theory", "law", "rule"],
+    "answer": "principle"
+  },
+  {
+    "id": "advanced-question-24",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'संविधानशास्त्र'?",
+    "possibleAnswers": ["constitutional law", "civil law", "criminal law", "international law"],
+    "answer": "constitutional law"
+  },
+  {
+    "id": "advanced-question-25",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'संपूर्ण'?",
+    "possibleAnswers": ["complete", "whole", "entire", "all"],
+    "answer": "complete"
+  },
+  {
+    "id": "medium-question-1",
+    "keywords": ["medium"],
+    "prompt": "What is the meaning of 'ग्रामः'?",
+    "possibleAnswers": ["village", "mountain", "river", "road"],
+    "answer": "village"
+  },
+  {
+    "id": "medium-question-2",
+    "keywords": ["medium"],
+    "prompt": "What is the Sanskrit word for 'teacher'?",
+    "possibleAnswers": ["गुरुः", "विद्यार्थी", "मित्रम्", "राजा"],
+    "answer": "गुरुः"
+  },
+  {
+    "id": "medium-question-3",
+    "keywords": ["medium"],
+    "prompt": "What is the plural form of 'नदी'?",
+    "possibleAnswers": ["नद्यः", "नदिः", "नद्या", "नदीनाम्"],
+    "answer": "नद्यः"
+  },
+  {
+    "id": "medium-question-4",
+    "keywords": ["medium"],
+    "prompt": "What is the gender of the noun 'फलम्'?",
+    "possibleAnswers": ["neuter", "masculine", "feminine", "dual"],
+    "answer": "neuter"
+  },
+  {
+    "id": "medium-question-5",
+    "keywords": ["medium"],
+    "prompt": "What is the Sanskrit word for 'student'?",
+    "possibleAnswers": ["शिष्यः", "गुरुः", "मित्रम्", "पुस्तकम्"],
+    "answer": "शिष्यः"
+  },
+  {
+    "id": "medium-question-6",
+    "keywords": ["medium"],
+    "prompt": "What is the verb root (dhatu) of 'पठति'?",
+    "possibleAnswers": ["पठ्", "गम्", "कृ", "भू"],
+    "answer": "पठ्"
+  },
+  {
+    "id": "medium-question-7",
+    "keywords": ["medium"],
+    "prompt": "What is the meaning of 'गृहः'?",
+    "possibleAnswers": ["house", "garden", "gate", "window"],
+    "answer": "house"
+  },
+  {
+    "id": "medium-question-8",
+    "keywords": ["medium"],
+    "prompt": "Choose the correct feminine noun.",
+    "possibleAnswers": ["नदी", "गजः", "फलम्", "पुस्तकम्"],
+    "answer": "नदी"
+  },
+  {
+    "id": "medium-question-9",
+    "keywords": ["medium"],
+    "prompt": "Which word is in the accusative case?",
+    "possibleAnswers": ["फलम्", "फलः", "फले", "फलस्य"],
+    "answer": "फलम्"
+  },
+  {
+    "id": "medium-question-10",
+    "keywords": ["medium"],
+    "prompt": "What is the locative singular of 'गृहः'?",
+    "possibleAnswers": ["गृहे", "गृहः", "गृहम्", "गृहस्य"],
+    "answer": "गृहे"
+  },
+  {
+    "id": "medium-question-11",
+    "keywords": ["medium"],
+    "prompt": "What is the Sanskrit word for 'father'?",
+    "possibleAnswers": ["पिता", "माता", "शिष्यः", "राजा"],
+    "answer": "पिता"
+  },
+  {
+    "id": "medium-question-12",
+    "keywords": ["medium"],
+    "prompt": "Which of these is a neuter noun?",
+    "possibleAnswers": ["फलम्", "गजः", "गुरुः", "नदी"],
+    "answer": "फलम्"
+  },
+  {
+    "id": "medium-question-13",
+    "keywords": ["medium"],
+    "prompt": "What is the meaning of 'बालकः'?",
+    "possibleAnswers": ["boy", "girl", "child", "baby"],
+    "answer": "boy"
+  },
+  {
+    "id": "medium-question-14",
+    "keywords": ["medium"],
+    "prompt": "What is the present tense of 'कृ' for 'he/she'?",
+    "possibleAnswers": ["करोति", "कृत्वा", "कृतम्", "कुरु"],
+    "answer": "करोति"
+  },
+  {
+    "id": "medium-question-15",
+    "keywords": ["medium"],
+    "prompt": "What is the dative singular of 'शिष्यः'?",
+    "possibleAnswers": ["शिष्याय", "शिष्यः", "शिष्ये", "शिष्यम्"],
+    "answer": "शिष्याय"
+  },
+  {
+    "id": "medium-question-16",
+    "keywords": ["medium"],
+    "prompt": "What is the root of the verb 'गच्छति'?",
+    "possibleAnswers": ["गम्", "गच्", "गम्‍छ्", "गच्छ्"],
+    "answer": "गम्"
+  },
+  {
+    "id": "medium-question-17",
+    "keywords": ["medium"],
+    "prompt": "What is the feminine form of 'शिष्यः'?",
+    "possibleAnswers": ["शिष्या", "शिष्यि", "शिष्यती", "शिष्यिका"],
+    "answer": "शिष्या"
+  },
+  {
+    "id": "medium-question-18",
+    "keywords": ["medium"],
+    "prompt": "What is the plural form of 'फलम्'?",
+    "possibleAnswers": ["फलानि", "फलः", "फलाः", "फलानम्"],
+    "answer": "फलानि"
+  },
+  {
+    "id": "medium-question-19",
+    "keywords": ["medium"],
+    "prompt": "What is the meaning of 'देवः'?",
+    "possibleAnswers": ["god", "man", "teacher", "leader"],
+    "answer": "god"
+  },
+  {
+    "id": "medium-question-20",
+    "keywords": ["medium"],
+    "prompt": "What is the past participle of 'कृ'?",
+    "possibleAnswers": ["कृतः", "करोति", "कृत्यम्", "कृत्वा"],
+    "answer": "कृतः"
+  },
+  {
+    "id": "medium-question-21",
+    "keywords": ["medium"],
+    "prompt": "What is the Sanskrit word for 'light'?",
+    "possibleAnswers": ["प्रकाशः", "छाया", "ध्वनि", "वस्त्रः"],
+    "answer": "प्रकाशः"
+  },
+  {
+    "id": "medium-question-22",
+    "keywords": ["medium"],
+    "prompt": "What is the Sanskrit word for 'mind'?",
+    "possibleAnswers": ["मनः", "बुद्धिः", "चित्तम्", "धृति"],
+    "answer": "मनः"
+  },
+  {
+    "id": "medium-question-23",
+    "keywords": ["medium"],
+    "prompt": "What is the future tense of 'गम्' for 'I'?",
+    "possibleAnswers": ["गमिष्यामि", "गच्छामि", "गत्वा", "गन्तुम्"],
+    "answer": "गमिष्यामि"
+  },
+  {
+    "id": "medium-question-24",
+    "keywords": ["medium"],
+    "prompt": "Which of these is a correct translation for 'knowledge'?",
+    "possibleAnswers": ["ज्ञानम्", "विद्या", "शिक्षा", "बुद्धिः"],
+    "answer": "ज्ञानम्"
+  },
+  {
+    "id": "medium-question-25",
+    "keywords": ["medium"],
+    "prompt": "Which noun is in the instrumental case?",
+    "possibleAnswers": ["गजेन", "गजः", "गजम्", "गजस्य"],
+    "answer": "गजेन"
+  },
+  {
+    "id": "basic-question-26",
+    "keywords": ["basic"],
+    "prompt": "Who is the king of the gods in Hinduism?",
+    "possibleAnswers": ["इन्द्रः", "अग्निः", "वरुणः", "वायुः"],
+    "answer": "इन्द्रः"
+  },
+  {
+    "id": "basic-question-27",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'चन्द्रः'?",
+    "possibleAnswers": ["moon", "star", "sun", "planet"],
+    "answer": "moon"
+  },
+  {
+    "id": "basic-question-28",
+    "keywords": ["basic"],
+    "prompt": "Which Sanskrit word means 'god'?",
+    "possibleAnswers": ["देवः", "पुरुषः", "गुरुः", "कुमारः"],
+    "answer": "देवः"
+  },
+  {
+    "id": "basic-question-29",
+    "keywords": ["basic"],
+    "prompt": "What is the meaning of 'शिवः'?",
+    "possibleAnswers": ["Shiva", "Sun", "Hero", "Lord"],
+    "answer": "Shiva"
+  },
+  {
+    "id": "basic-question-30",
+    "keywords": ["basic"],
+    "prompt": "What does 'वेदः' refer to?",
+    "possibleAnswers": ["knowledge", "warrior", "fire", "teacher"],
+    "answer": "knowledge"
+  },
+  {
+    "id": "medium-question-26",
+    "keywords": ["medium"],
+    "prompt": "Who is the goddess of knowledge in Hindu tradition?",
+    "possibleAnswers": ["सरस्वती", "लक्ष्मी", "सीता", "दुर्गा"],
+    "answer": "सरस्वती"
+  },
+  {
+    "id": "medium-question-27",
+    "keywords": ["medium"],
+    "prompt": "What is the accusative plural form of 'देवः'?",
+    "possibleAnswers": ["देवान्", "देवाः", "देवे", "देवेषु"],
+    "answer": "देवान्"
+  },
+  {
+    "id": "medium-question-28",
+    "keywords": ["medium"],
+    "prompt": "Which deity is associated with fire?",
+    "possibleAnswers": ["अग्निः", "इन्द्रः", "वरुणः", "सोमः"],
+    "answer": "अग्निः"
+  },
+  {
+    "id": "medium-question-29",
+    "keywords": ["medium"],
+    "prompt": "What is the locative singular of 'वेदः'?",
+    "possibleAnswers": ["वेदे", "वेदम्", "वेदः", "वेदस्य"],
+    "answer": "वेदे"
+  },
+  {
+    "id": "medium-question-30",
+    "keywords": ["medium"],
+    "prompt": "What is the Sanskrit word for 'ritual'?",
+    "possibleAnswers": ["यज्ञः", "कर्म", "मन्त्रः", "व्रतम्"],
+    "answer": "यज्ञः"
+  },
+  {
+    "id": "advanced-question-26",
+    "keywords": ["advanced"],
+    "prompt": "What is the instrumental plural form of 'ऋषिः'?",
+    "possibleAnswers": ["ऋषिभिः", "ऋषयः", "ऋषिणा", "ऋषेषु"],
+    "answer": "ऋषिभिः"
+  },
+  {
+    "id": "advanced-question-27",
+    "keywords": ["advanced"],
+    "prompt": "What is the dative plural form of 'देवः'?",
+    "possibleAnswers": ["देवेभ्यः", "देवानाम्", "देवेषु", "देवान्"],
+    "answer": "देवेभ्यः"
+  },
+  {
+    "id": "advanced-question-28",
+    "keywords": ["advanced"],
+    "prompt": "What is the meaning of 'सत्यं शिवं सुन्दरम्'?",
+    "possibleAnswers": ["truth, auspiciousness, beauty", "truth, silence, purity", "wisdom, light, harmony", "life, devotion, sound"],
+    "answer": "truth, auspiciousness, beauty"
+  },
+  {
+    "id": "advanced-question-29",
+    "keywords": ["advanced"],
+    "prompt": "What is the optative form of 'भवति' (for 'he/she')?",
+    "possibleAnswers": ["भवेत्", "भवेताम्", "भविष्यति", "भवत्सु"],
+    "answer": "भवेत्"
+  },
+  {
+    "id": "advanced-question-30",
+    "keywords": ["advanced"],
+    "prompt": "What is the Vedic deity associated with wind?",
+    "possibleAnswers": ["वायुः", "अग्निः", "इन्द्रः", "वरुणः"],
+    "answer": "वायुः"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c5b84a5c-efc0-4e6d-b1cb-d8490f458b4f",
+    "title": "Overview of Sanskrit",
+    "tags": ["overview", "grammar"],
+    "content": "Sanskrit is a classical language of South Asia and the liturgical language of Hinduism, Buddhism, and Jainism. It is known for its precise and rich grammatical structure.\n\nTen essential features:\n1. Eight grammatical cases\n2. Three numbers (singular, dual, plural)\n3. Three genders\n4. Verb conjugation for person, number, tense, mood, and voice\n5. Ten verb classes\n6. Sandhi (sound transformations at word boundaries)\n7. Samāsa (compound words)\n8. A rich participial system\n9. Extensive use of suffixes\n10. Vedic vs Classical usage distinctions"
+  },
+  {
+    "id": "5f8f491d-5b8c-4746-bd4f-248d5a8d7eb3",
+    "title": "The Role of Sandhi",
+    "tags": ["phonology", "sandhi"],
+    "content": "Sandhi refers to the rules that govern how sounds combine at word boundaries. There are three types:\n- Vowel Sandhi\n- Consonant Sandhi\n- Visarga Sandhi\n\nThese rules are essential for understanding proper pronunciation and correct interpretation of compound words."
+  },
+  {
+    "id": "e70f5174-fd17-4b2b-94e7-3654bfb0cf09",
+    "title": "Cases in Sanskrit",
+    "tags": ["grammar", "cases"],
+    "content": "Sanskrit has eight cases:\n1. Nominative\n2. Accusative\n3. Instrumental\n4. Dative\n5. Ablative\n6. Genitive\n7. Locative\n8. Vocative\n\nEach case indicates a different syntactic or semantic function in a sentence."
+  },
+  {
+    "id": "9020ebea-1db3-40ec-bc7a-d36a297b469c",
+    "title": "Sanskrit Verb Conjugation",
+    "tags": ["verbs", "conjugation"],
+    "content": "Sanskrit verbs are conjugated by person, number, tense, mood, and voice. Key tenses include:\n- Present\n- Imperfect\n- Future\n- Perfect\n\nVoices: Active (Parasmaipada), Middle (Ātmanepada), Passive."
+  },
+  {
+    "id": "8eb01aa5-9fd7-4f49-9b6a-dcf85ef79a3e",
+    "title": "Creating Compound Words",
+    "tags": ["syntax", "samāsa"],
+    "content": "Samāsa is the process of combining words to form compound words. Types include:\n- Tatpuruṣa\n- Karmadhāraya\n- Dvandva\n- Bahuvrīhi\n\nUnderstanding compound types is crucial to parsing Sanskrit texts."
+  }
+]
