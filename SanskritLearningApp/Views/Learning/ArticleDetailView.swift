@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import MarkdownUI
 
 struct ArticleDetailView: View {
     let article: Article
@@ -15,17 +16,10 @@ struct ArticleDetailView: View {
             VStack(alignment: .leading, spacing: 16) {
                 Text(article.title)
                     .font(.title)
-                    .fontWeight(.bold)
-
-                HStack {
-                    ForEach(article.tags, id: \.self) { tag in
-                        TagPill(tag: tag)
-                    }
-                }
 
                 Divider()
 
-                Text(article.content)
+                Markdown(article.content)
                     .font(.body)
             }
             .padding()
@@ -36,5 +30,12 @@ struct ArticleDetailView: View {
 }
 
 #Preview {
-    ArticleDetailView(article: Article(id: .init(), title: "Test", tags: ["foo", "bar", "baz"], content: "Test"))
+    ArticleDetailView(article: Article(
+        id: .init(),
+        title: "Test",
+        author: "Test Author",
+        summary: "Test",
+        content: "Test",
+        keywords: ["foo", "bar", "baz"],
+    ))
 }

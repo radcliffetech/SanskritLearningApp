@@ -12,14 +12,17 @@ struct WelcomeView: View {
         VStack(spacing: 20) {
             Spacer()
 
-            Image("sri-yantra")
+            Image("om")
                 .resizable()
                 .scaledToFit()
                 .frame(width: 300, height: 300)
                 .opacity(0.4)
                 .padding()
 
-
+            Text("भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य")
+                .font(.headline)
+            Text("धीमहि धियो यो नः प्रचोदयात्॥")
+                .font(.headline)
             Spacer()
         }
     }

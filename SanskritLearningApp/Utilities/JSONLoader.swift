@@ -6,13 +6,23 @@
 //
 import Foundation
 
-class JSONLoader {
-    static func load<T: Decodable>(from fileName: String, as type: T.Type) -> T {
-        guard let url = Bundle.main.url(forResource: fileName, withExtension: "json"),
-              let data = try? Data(contentsOf: url),
-              let result = try? JSONDecoder().decode(T.self, from: data) else {
-            return [] as! T
+struct JSONLoader {
+    static func load<T: Decodable>(from filename: String, as type: T.Type) -> T {
+        guard let url = Bundle.main.url(forResource: filename, withExtension: "json") else {
+            fatalError("Failed to locate \(filename).json in bundle.")
         }
-        return result
+
+        guard let data = try? Data(contentsOf: url) else {
+            fatalError("Failed to load \(filename).json from bundle.")
+        }
+
+        let decoder = JSONDecoder()
+        decoder.keyDecodingStrategy = .useDefaultKeys
+
+        guard let loaded = try? decoder.decode(T.self, from: data) else {
+            fatalError("Failed to decode \(filename).json from bundle.")
+        }
+
+        return loaded
     }
 }

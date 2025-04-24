@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00CFB1A42DBAE1A600372EE3 /* MarkdownUI in Frameworks */ = {isa = PBXBuildFile; productRef = 00CFB1A32DBAE1A600372EE3 /* MarkdownUI */; };
 		00FB5F652DB15D4300FC5D1F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 00FB5F642DB15D3C00FC5D1F /* .gitignore */; };
 		00FB5F672DB15DAB00FC5D1F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 00FB5F662DB15DA700FC5D1F /* README.md */; };
 /* End PBXBuildFile section */
@@ -59,6 +60,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00CFB1A42DBAE1A600372EE3 /* MarkdownUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,6 +123,7 @@
 			);
 			name = SanskritFlashCards;
 			packageProductDependencies = (
+				00CFB1A32DBAE1A600372EE3 /* MarkdownUI */,
 			);
 			productName = SanskritFlashCards;
 			productReference = 000740462DB01B0B001631B2 /* SanskritFlashCards.app */;
@@ -204,6 +207,9 @@
 			);
 			mainGroup = 0007403D2DB01B0B001631B2;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				00CFB1A22DBAE18500372EE3 /* XCRemoteSwiftPackageReference "swift-markdown-ui" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 000740472DB01B0B001631B2 /* Products */;
 			projectDirPath = "";
@@ -569,6 +575,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		00CFB1A22DBAE18500372EE3 /* XCRemoteSwiftPackageReference "swift-markdown-ui" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/gonzalezreal/swift-markdown-ui";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.4.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		00CFB1A32DBAE1A600372EE3 /* MarkdownUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 00CFB1A22DBAE18500372EE3 /* XCRemoteSwiftPackageReference "swift-markdown-ui" */;
+			productName = MarkdownUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 0007403E2DB01B0B001631B2 /* Project object */;
 }

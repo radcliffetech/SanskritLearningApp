@@ -13,7 +13,7 @@ Sanskrit Flash Cards is a SwiftUI-based iOS app designed to help learners build 
 
 1. Open the project in Xcode.
 2. Build and run on the simulator or a connected device.
-3. Explore articles and tags to begin learning!
+3. Explore articles and keywords to begin learning!
 
 ## Folder Structure
 
@@ -30,6 +30,7 @@ Sanskrit Flash Cards is a SwiftUI-based iOS app designed to help learners build 
 - `SanskritLearningAppTests/` – Unit tests
 - `SanskritLearningAppUITests/` – UI tests
 
-## License
+## Development Wishlist
 
-This project is open-source and available under the MIT License.
+- Audio playback
+- Connect to Firebase/Firestore

@@ -45,10 +45,7 @@ struct Quiz {
         
         //  shuffle
         newQuestions.shuffle()
-        
         self.questions = Array(newQuestions.prefix(questionCount))
-        print("Init new quiz with \(questions.count) questions")
-        questions.forEach { print("• \($0.prompt)") }
     }
     
     // make a guess
@@ -83,7 +80,6 @@ struct Quiz {
         isDismissed = true
     }
     
-    // Todo - maybe move this elsewhere?
     func loadAllQuestions() -> [Question] {
         return JSONLoader.load(from: "questions", as: [Question].self)
     }

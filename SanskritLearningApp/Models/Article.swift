@@ -10,6 +10,9 @@ import Foundation
 struct Article: Identifiable, Codable {
     let id: UUID
     let title: String
-    let tags: [String]
+    let author: String
+    let summary: String
     let content: String
+    let keywords: [String]
+
 }

@@ -22,8 +22,9 @@ struct SymbolDetailView: View {
                     Text("Transliteration: \(symbolData.pronunciation)")
                         .font(.headline)
                     Spacer()
-                    SymbolAudioView(symbol: symbol)
-                        .scaleEffect(0.8)
+                    // SOON
+//                    SymbolAudioView(symbol: symbol)
+//                        .scaleEffect(0.8)
                 }
                 if let meaning = symbolData.meaning {
                     Divider()
